@@ -1,0 +1,1 @@
+# AWS-EC2-Terraform-Docker-Strappi-Private_EC2
